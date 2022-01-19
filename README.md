@@ -1,4 +1,5 @@
-[![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+
+![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Cody!</h1>
 <h3 align="center">A Passionate Developer in Dallas, TX</h3>
 <img align = "right" alt="coding" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47djyv6okcctoouij543umf1lf57qiw5svslkhl2i4&rid=giphy.gif&ct=g">
